@@ -9,16 +9,22 @@ h1 {
     display: inline-block;
 }
 
-.center{
+.center {
     width: 100%;
     margin: auto;
     text-align: center;
 }
 
-.center-image
-{
+.center-image {
     text-align: center;
     display: block;
+    margin: auto;
     width: 25%;
     height: 25%;
+}
+
+.image-caption {
+    width: 100%;
+    margin: auto;
+    text-align: center;
 }
