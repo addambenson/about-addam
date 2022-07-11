@@ -15,9 +15,10 @@ h1 {
     text-align: center;
 }
 
-.center-image {
+.center-image
+{
+    text-align: center;
+    display: block;
     width: 25%;
     height: 25%;
-    margin: auto;
-    align-items: center;
 }
