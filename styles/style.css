@@ -1,0 +1,23 @@
+h1 {
+    color:teal;
+}
+
+.center-list {
+    width: 20%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+.center{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.center-image {
+    width: 25%;
+    height: 25%;
+    margin: auto;
+    align-items: center;
+}
